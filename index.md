@@ -1,4 +1,1 @@
-# Test big
-### test lower
-
-no real commits, just checking the markup
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
